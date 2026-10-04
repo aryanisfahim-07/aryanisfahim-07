@@ -1,10 +1,10 @@
 # Hi there, I'm Aryan Fahim 👋
 
-💻 Aspiring Software Engineer
-🌱 Currently learning Web Development
-🛠️ Exploring HTML, CSS, JavaScript & C
-🎯 Improving my coding skills step by step
-🚀 Learning, building, and growing every day.
+💻 - Aspiring Software Engineer
+🌱 - Currently learning Web Development
+🛠️ - Exploring HTML, CSS, JavaScript & C
+🎯 - Improving my coding skills step by step
+🚀 - Learning, building, and growing every day.
 
 ### 🤝 Connect with me
 
